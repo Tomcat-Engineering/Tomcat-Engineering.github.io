@@ -17,6 +17,18 @@ layout: default
   <p>Tags: {% for tag in page.tags %}{{ tag }}{%- if forloop.last == false %}, {% endif -%}{% endfor %}</p>
   {%- endif -%}
 
-  <a href="/101things" title="back to list of tips""> Back to list</a>
+  {% assign prev_number = page.number | to_integer | minus: 1 -%}
+  {%- assign prev_page = site.tips | where: "number", prev_number | first -%}
+  {%- if prev_page.title -%}
+  <p>Previous: <a href="{{ prev_page.url }}" title="previous">{{ prev_page.title }}</a></p>
+  {%- endif -%}
+
+  {% assign next_number = page.number | to_integer | plus: 1 -%}
+  {%- assign next_page = site.tips | where: "number", next_number | first -%}
+  {%- if next_page.title -%}
+  <p>Next: <a href="{{ next_page.url }}" title="next">{{ next_page.title }}</a></p>
+  {%- endif -%}
+
+  <p><a href="/101things" title="back to list">Back to list</a></p>
 
 </article>
