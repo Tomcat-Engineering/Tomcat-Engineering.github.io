@@ -7,7 +7,7 @@ Tomcat Engineering is the trading name of freelance engineering consultants Tom 
 	
 **Tom** specialises in control and monitoring systems, with a particular focus on the energy sector.  He is a Chartered Engineer with nearly twenty years of industry experience and a first class degree in Engineering from Cambridge University.  His full CV can be [downloaded here](Tom Young CV.pdf)
 	
-**Catherine** has ten years experience working as an electrical engineer and grid connection specialist. She is an excellent communicator with significant project management experience and a common-sense approach to problem solving.  She studied engineering at Oxford and Princeton.  Her CV can be [downloaded here](assets/Catherine Cleary CV.pdf).
+**Catherine** has ten years experience working as an electrical engineer and grid connection specialist. She is an excellent communicator with significant project management experience and a common-sense approach to problem solving.  She studied engineering at Oxford and Princeton.  Her CV can be [downloaded here](Catherine Cleary CV.pdf).
 
 # 101 Things I Wish I'd Learnt at Engineering School
 
