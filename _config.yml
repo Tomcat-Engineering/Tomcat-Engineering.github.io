@@ -22,5 +22,4 @@ plugins:
 collections:
   tips:
     output: true
-    sort_by: number
     permalink: /101things/:name

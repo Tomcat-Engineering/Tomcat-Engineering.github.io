@@ -15,7 +15,7 @@ A decent one-day course on how to give better presentations is very useful but n
 There are loads of good reasons to give presentations about your work, whether in public or just within your organisation:
 
 - **Collaboration**: other people will come to you if they are working on similar things, have ideas which might help you or if they have a related problem which you might be able to solve.
-- **Recruitment**: people might remember you and offer you work – perhaps even several years later.  Or you might find your next engineering recruit in the audience.  Remember, [many of the best jobs are not advertised](5-many-of-the-best-jobs-are-not-advertised).  I got one of my best jobs by collaring an engineer after he gave a public talk and asking him for a job.
+- **Recruitment**: people might remember you and offer you work – perhaps even several years later.  Or you might find your next engineering recruit in the audience.  Remember, [many of the best jobs are not advertised](05-many-of-the-best-jobs-are-not-advertised).  I got one of my best jobs by collaring an engineer after he gave a public talk and asking him for a job.
 - **Sales**: I would be more likely to buy your product or service if I had seen a competent engineer talking about it, and maybe your customers would too.
 - **Clarity**: explaining your ideas helps you to put your thoughts in order.
 - **Authority**: For some reason presenting about a topic can make you the recognised authority on it even when there are actually lots of equally competent people around you.  Sometimes this can be useful.
