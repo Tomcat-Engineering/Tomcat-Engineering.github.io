@@ -13,6 +13,10 @@ Tomcat Engineering is the trading name of freelance engineering consultants Tom 
 
 Tom has started making a list, [you can see it here](101things).
 
+# Sailing
+
+In 2018 we sailed from the UK to Denmark and Sweden.  We left the boat in Denmark over winter and sailed her back to the UK in 2019. You can read about this on [our sailing blog](https://sailinglizzie.wordpress.com).
+
 # Contact
 
 Email us at [info@tomcat-engineering.com](mailto:info@tomcat-engineering.com) or find [Tom on LinkedIn](https://www.linkedin.com/in/tom-young-93395534) / [Catherine on LinkedIn](https://www.linkedin.com/in/catherine-cleary-b60374a6/).
