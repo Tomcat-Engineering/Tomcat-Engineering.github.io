@@ -1,6 +1,6 @@
 ---
 layout: tip
-title: Fire useless people as soon as possible
+title: If you hate your job then stop moaning and quit
 number: 8
 tags: recruitment
 ---
