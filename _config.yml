@@ -8,7 +8,7 @@ email: info@tomcat-engineering.com
 description: Tomcat Engineering is the trading name of freelance engineering consultants Tom Young and Catherine Cleary.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tomcat-engineering
+twitter_username: Tomcat_Engineer
 github_username:  tomcat-engineering
 page_excerpts: true
 header_pages: 
