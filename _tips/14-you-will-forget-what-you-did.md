@@ -16,4 +16,4 @@ There is nothing more embarrassing than having to admit that you aren’t exactl
 
 This is less likely to happen for the big complicated analyses where you are publishing a whole report.  It is much more likely to happen for the quick 5-minute calculations on the back of a fag packet.
 
-[Tech Notes](45-write-tech-notes) are a perfect way to document this stuff, and often the process of writing the note will flush out some extra considerations which you hadn’t thought of.  If you don’t have time for a Tech Note, at least scribble the working down in your lab book or similar.
+[Tech Notes](45-tech-notes) are a perfect way to document this stuff, and often the process of writing the note will flush out some extra considerations which you hadn’t thought of.  If you don’t have time for a Tech Note, at least scribble the working down in your lab book or similar.
