@@ -15,7 +15,9 @@ Tom has started making a list, [you can see it here](101things).
 
 # Sailing
 
-In 2018 we sailed from the UK to Denmark and Sweden.  We left the boat in Denmark over winter and sailed her back to the UK in 2019. You can read about this on [our sailing blog](https://sailinglizzie.wordpress.com).
+In 2018 we sailed from the UK to Denmark and Sweden.  We left the boat in Denmark over winter and sailed her back to the UK in 2019. You can read about this on [our Lizzie blog](https://sailinglizzie.wordpress.com).
+
+In 2022 we bought a bigger boat and sailed from the UK up to Norway.  You can read about that on [our Penguin blog](https://sailingpenguin425319300.wordpress.com/). 
 
 # Contact
 
