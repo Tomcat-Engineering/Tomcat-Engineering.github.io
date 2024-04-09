@@ -3,7 +3,7 @@ layout: page
 title: 101 Things I Wish I'd Learnt at Engineering School
 ---
 
-Seventeen years ago I finished university and started working as an engineer.
+Twenty years ago I finished university and started working as an engineer.
 
 At that point I had a huge amount of theoretical knowledge and could confidently write you a mathematical model of anything in five minutes flat.  I assumed that I had basically finished learning and was about to put all that hard-earned knowledge to work solving the world’s problems.
 
