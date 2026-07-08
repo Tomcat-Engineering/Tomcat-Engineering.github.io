@@ -1,7 +1,7 @@
 ---
 layout: tip
 title: Work in the second quadrant
-number: 62
+number: 63
 tags:
  - strategy
 ---
