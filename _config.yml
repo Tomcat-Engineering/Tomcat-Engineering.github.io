@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tomcat Engineering
 email: info@tomcat-engineering.com
-description: Tomcat Engineering is the trading name of freelance engineering consultants Tom Young and Catherine Cleary.
+description: Tomcat Engineering Limited.  Registered Company 17510116.  Hilltop View, Glossop, SK13 7QJ.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Tomcat_Engineer
